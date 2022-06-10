@@ -1,0 +1,8 @@
+Type:  economy Source:  islamabad Destination:  karachi Capacity:  50
+Type:  economy Source:  islamabad Destination:  peshawar Capacity:  50
+Type:  economy Source:  islamabad Destination:  lahore Capacity:  50
+Type:  economy Source:  islamabad Destination:  multan Capacity:  50
+Type:  economy Source:  islamabad Destination:  gilgit Capacity:  50
+Type:  economy Source:  islamabad Destination:  hyderabad Capacity:  50
+Type:  business Source:  islamabad Destination:  karachi Capacity:  50
+Type:  economy Source:  islamabad Destination:  karachi Capacity:  150
